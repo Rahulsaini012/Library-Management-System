@@ -1,15 +1,22 @@
 📚 LIBRARY MANAGEMENT SYSTEM
+
+
 Overview
 Welcome to the Library Management System, an interactive console-based Python application!
 This program allows users to view detailed information about a curated selection of books and choose whether to continue exploring or exit the system.
 
 It’s a simple yet powerful program designed to demonstrate how Python can be used for menu-driven applications.
 
+
 Features
 📖 View Book Details: Explore detailed information about five books, including title, author, price, and launch date.
 🖱️ Menu-Driven Interface: Navigate through options with a simple and intuitive menu system.
 🔄 Loop for Continuity: Option to continue browsing or exit anytime.
 🎉 Beginner-Friendly: A great starter project for those learning Python.
+
+
+
+
 How It Works
 Welcome Message: The program begins with a welcoming banner: LIBRARY MANAGEMENT SYSTEM.
 Book Options: A list of book numbers is displayed for the user to select from.
