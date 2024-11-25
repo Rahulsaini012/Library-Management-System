@@ -48,7 +48,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone[ https://github.com/your-username/library-management-system.git](https://github.com/Rahulsaini012/Library-Management-System/blob/main/Library_Management_System.py.py)
+git clone(https://github.com/Rahulsaini012/Library-Management-System/blob/main/Library_Management_System.py.py)
 
 cd library-management-system
 Run the program:
