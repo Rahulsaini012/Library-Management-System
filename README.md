@@ -5,7 +5,10 @@ Overview
 Welcome to the Library Management System, an interactive console-based Python application!
 This program allows users to view detailed information about a curated selection of books and choose whether to continue exploring or exit the system.
 
+
 It’s a simple yet powerful program designed to demonstrate how Python can be used for menu-driven applications.
+
+
 
 
 Features
@@ -13,6 +16,12 @@ Features
 🖱️ Menu-Driven Interface: Navigate through options with a simple and intuitive menu system.
 🔄 Loop for Continuity: Option to continue browsing or exit anytime.
 🎉 Beginner-Friendly: A great starter project for those learning Python.
+
+
+
+
+
+
 
 
 
@@ -28,17 +37,27 @@ Python: The entire program is written in Python, utilizing simple functions and 
 Installation
 Clone this repository to your local machine:
 
+
+
+
+
+
 bash
 Copy code
-git clone https://github.com/your-username/library-management-system.git
+git clone[ https://github.com/your-username/library-management-system.git](https://github.com/Rahulsaini012/Library-Management-System/blob/main/Library_Management_System.py.py)
+
 cd library-management-system
 Run the program:
+
+
 
 bash
 Copy code
 python library_management_system.py
 Sample Code Snippet
 Here’s a quick look at how the program handles user input and displays book details:
+
+
 
 python
 Copy code
@@ -60,6 +79,9 @@ def joy():
 Sample Output
 yaml
 Copy code
+
+                            
+                            
                             LIBRARY MANAGEMENT SYSTEM
 
 press 1 for 101.no book informatins
@@ -70,16 +92,24 @@ press 5 for 105.no book informatins
 
 Enter number: 1
 
+
 101 Book Name: Atomic Habits
      Author Name: James Clear
      Price: $17.99
      Launch Date: October 16, 2018
 
+
 DO YOU WONT TO CONTINUE
 prees 1 for continue
 prees 2 for exit: 2
 
+
+
 Thanks for visiting LIBRARY SYSTEM.
+
+
+
+
 File Structure
 bash
 Copy code
@@ -88,6 +118,9 @@ Library-Management-System/
 ├── README.md                     # Project documentation
 Contributions
 Contributions are welcome! If you’d like to improve or expand this project:
+
+
+
 
 Fork the repository.
 Create a new branch:
@@ -105,6 +138,8 @@ git push origin feature-branch-name
 Open a pull request on the main repository.
 License
 This project is licensed under the MIT License. Feel free to use and modify it for your personal or learning projects.
+
+
 
 Acknowledgments
 Special thanks to the developers and Python enthusiasts who inspired this project. 😊
