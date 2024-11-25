@@ -63,49 +63,98 @@ Here’s a quick look at how the program handles user input and displays book de
 
 
 
+
 python
+
 Copy code
+
 def joy():
+
     z = int(input('Enter number: '))   
+    
     if z == 1:
+    
         print('''101 Book Name: Atomic Habits
+        
         Author Name: James Clear
+        
         Price: $17.99
+        
         Launch Date: October 16, 2018''')
+        
         kaa()
-    elif z == 2:
+    elif
+    z == 2:
+    
         print('''102 Book Name: The Midnight Library
+        
         Author Name: Matt Haig
+        
         Price: $13.99
+        
         Launch Date: September 29, 2020''')
+        
         kaa()
-    # Additional elif conditions for other books...
-Sample Output
+    # Ad
+    ditional elif conditions for other books...
+Samp
+le Output
+
 yaml
+
 Copy code
+
+
+
+                            
 
                             
                             
                             LIBRARY MANAGEMENT SYSTEM
 
+
+
 press 1 for 101.no book informatins
+
 press 2 for 102.no book informatins
+
 press 3 for 103.no book informatins
+
+
 press 4 for 104.no book informatins
+
 press 5 for 105.no book informatins
+
+
 
 Enter number: 1
 
 
+
+
+
+
 101 Book Name: Atomic Habits
+
      Author Name: James Clear
+     
      Price: $17.99
+     
      Launch Date: October 16, 2018
 
 
+
+
+
 DO YOU WONT TO CONTINUE
+
 prees 1 for continue
+
 prees 2 for exit: 2
+
+
+
+
 
 
 
@@ -114,36 +163,78 @@ Thanks for visiting LIBRARY SYSTEM.
 
 
 
+
+
+
+
 File Structure
+
+
 bash
+
 Copy code
+
 Library-Management-System/
+
 ├── library_management_system.py  # Main Python file
+
 ├── README.md                     # Project documentation
+
 Contributions
+
 Contributions are welcome! If you’d like to improve or expand this project:
 
 
 
 
+
+
+
+
+
 Fork the repository.
+
 Create a new branch:
+
 bash
+
 Copy code
+
 git checkout -b feature-branch-name
+
 Make your changes and commit them:
+
 bash
+
 Copy code
+
 git commit -m "Description of changes"
+
 Push the changes to your fork:
+
 bash
+
 Copy code
+
 git push origin feature-branch-name
+
 Open a pull request on the main repository.
+
 License
+
 This project is licensed under the MIT License. Feel free to use and modify it for your personal or learning projects.
 
 
 
+
+
+
+
 Acknowledgments
+
 Special thanks to the developers and Python enthusiasts who inspired this project. 😊
+
+
+
+
+
