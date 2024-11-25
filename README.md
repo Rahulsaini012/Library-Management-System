@@ -8,8 +8,11 @@ This Python-based console application allows you to explore information about po
 ## 🎯 Features
 
 - View information about selected books from the library.
+
 - Intuitive menu-based navigation.
+
 - Books include details like **Name**, **Author**, **Price**, and **Launch Date**.
+
 - Lightweight and easy to use!
 
 ---
