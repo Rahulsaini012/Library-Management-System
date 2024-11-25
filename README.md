@@ -46,7 +46,6 @@ Clone this repository to your local machine:
 
 
 
-bash
 Copy code
 git clone(https://github.com/Rahulsaini012/Library-Management-System/blob/main/Library_Management_System.py.py)
 
@@ -55,7 +54,7 @@ Run the program:
 
 
 
-bash
+
 Copy code
 python library_management_system.py
 Sample Code Snippet
@@ -163,74 +162,11 @@ Thanks for visiting LIBRARY SYSTEM.
 
 
 
-
-
-
-
-File Structure
-
-
-bash
-
-Copy code
-
-Library-Management-System/
-
-├── library_management_system.py  # Main Python file
-
-├── README.md                     # Project documentation
-
-Contributions
-
-Contributions are welcome! If you’d like to improve or expand this project:
-
-
-
-
-
-
-
-
-
-Fork the repository.
-
-Create a new branch:
-
-bash
-
-Copy code
-
-git checkout -b feature-branch-name
-
-Make your changes and commit them:
-
-bash
-
-Copy code
-
-git commit -m "Description of changes"
-
-Push the changes to your fork:
-
-bash
-
-Copy code
-
-git push origin feature-branch-name
-
-Open a pull request on the main repository.
-
-License
-
 This project is licensed under the MIT License. Feel free to use and modify it for your personal or learning projects.
 
 
 
 
-
-
-
-Acknowledgments
 
 Special thanks to the developers and Python enthusiasts who inspired this project. 😊
 
