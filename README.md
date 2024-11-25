@@ -90,11 +90,11 @@ thanks for visit  LIBRARY SYSTEM
 
                102	   The Midnight Library	            Matt Haig	      $13.99	   September 29, 2020
 
-               103	   The Alchemist	            Paulo Coelho    $16.99	   April 15, 1988
+               103	   The Alchemist	            Paulo Coelho      $16.99	   April 15, 1988
 
-               104	   Becoming	                  Michelle Obama   $18.99	   November 13, 2018
+               104	   Becoming	                  Michelle Obama     $18.99	   November 13, 2018
 
-               105	   The Four Agreements	            Don Miguel Ruiz	$12.99	   November 7, 1997
+               105	   The Four Agreements	            Don Miguel Ruiz   $12.99	   November 7, 1997
 
 ## 🤝 Contributions
 
@@ -123,7 +123,9 @@ Thank you for using this program!
 
 ### Notes:
 
-- Replace `https://github.com/your-username/library-management-system` with your repository's URL.
+- Replace : https://github.com/your-username/library-management-system` with your repository's URL.
+- Gmail : pb65rahulsaini@gmail.com
+- linkdin :
 
 
 
