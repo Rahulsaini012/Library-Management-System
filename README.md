@@ -12,9 +12,13 @@ It’s a simple yet powerful program designed to demonstrate how Python can be u
 
 
 Features
+
 📖 View Book Details: Explore detailed information about five books, including title, author, price, and launch date.
+
 🖱️ Menu-Driven Interface: Navigate through options with a simple and intuitive menu system.
+
 🔄 Loop for Continuity: Option to continue browsing or exit anytime.
+
 🎉 Beginner-Friendly: A great starter project for those learning Python.
 
 
