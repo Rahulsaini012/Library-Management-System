@@ -121,12 +121,16 @@ Thank you for using this program!
 
 
 
-### Notes:
+### 📬 Contact
 
-- Replace : (https://github.com/Rahulsaini012/Library-Management-System/commit/c62e8f28482ff000eed5fcd79fbe62ee59469a69)
-- Gmail : pb65rahulsaini@gmail.com
-- linkdin :
+For inquiries or issues, contact me:
 
+
+Email:pb65rahulsaini@gmail.com
+
+GitHub: Your GitHub Profile
+
+Linkedin:
 
 
 
